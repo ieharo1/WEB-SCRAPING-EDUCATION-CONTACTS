@@ -221,13 +221,6 @@ web-scraping-education-contacts/
 
 ---
 
-## 🤝 Contribuciones
-
-¿Agregaste nuevas fuentes de datos?
-¡Abre un Pull Request!
-
----
-
 ## 👨‍💻 Desarrollado por Isaac Esteban Haro Torres
 
 **Ingeniero en Sistemas · Full Stack · Automatización · Data**
